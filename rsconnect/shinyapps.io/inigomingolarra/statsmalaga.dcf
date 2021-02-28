@@ -1,0 +1,12 @@
+name: statsmalaga
+title: StatsMalaga
+username:
+account: inigomingolarra
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2319345
+bundleId: 4275762
+url: https://inigomingolarra.shinyapps.io/statsmalaga/
+when: 1614353114.32137
+asMultiple: FALSE
+asStatic: FALSE

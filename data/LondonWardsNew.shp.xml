@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<gmd:fileIdentifier>
+		<gco:CharacterString>f698fbf1-1d6a-432c-9239-f91e9e4affe2</gco:CharacterString>
+	</gmd:fileIdentifier>
+	<gmd:language>
+		<gmd:LanguageCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#LanguageCode" codeListValue="eng">eng</gmd:LanguageCode>
+	</gmd:language>
+	<gmd:hierarchyLevel>
+		<gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+	</gmd:hierarchyLevel>
+	<gmd:contact>
+		<gmd:CI_ResponsibleParty>
+			<gmd:organisationName>
+				<gco:CharacterString>Office for National Statistics</gco:CharacterString>
+			</gmd:organisationName>
+			<gmd:contactInfo>
+				<gmd:CI_Contact>
+					<gmd:address>
+						<gmd:CI_Address>
+							<gmd:electronicMailAddress>
+								<gco:CharacterString>ons.geography@ons.gsi.gov.uk</gco:CharacterString>
+							</gmd:electronicMailAddress>
+						</gmd:CI_Address>
+					</gmd:address>
+				</gmd:CI_Contact>
+			</gmd:contactInfo>
+			<gmd:role>
+				<gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+			</gmd:role>
+		</gmd:CI_ResponsibleParty>
+	</gmd:contact>
+	<gmd:dateStamp>
+		<gco:Date>2013-05-09</gco:Date>
+	</gmd:dateStamp>
+	<gmd:metadataStandardName>
+		<gco:CharacterString>UK GEMINI</gco:CharacterString>
+	</gmd:metadataStandardName>
+	<gmd:metadataStandardVersion>
+		<gco:CharacterString>2.1</gco:CharacterString>
+	</gmd:metadataStandardVersion>
+	<gmd:referenceSystemInfo>
+		<gmd:MD_ReferenceSystem>
+			<gmd:referenceSystemIdentifier>
+				<gmd:RS_Identifier>
+					<gmd:code>
+						<gco:CharacterString>OSGB 1936 / British National Grid (EPSG:27700)</gco:CharacterString>
+					</gmd:code>
+					<gmd:codeSpace>
+						<gco:CharacterString>EPSG</gco:CharacterString>
+					</gmd:codeSpace>
+				</gmd:RS_Identifier>
+			</gmd:referenceSystemIdentifier>
+		</gmd:MD_ReferenceSystem>
+	</gmd:referenceSystemInfo>
+	<gmd:identificationInfo>
+		<gmd:MD_DataIdentification>
+			<gmd:citation>
+				<gmd:CI_Citation>
+					<gmd:title>
+						<gco:CharacterString>Ward (E+W) 2011 Boundaries (Full, Extent)</gco:CharacterString>
+					</gmd:title>
+					<gmd:alternateTitle>
+						<gco:CharacterString>Ward (E+W) 2011 Boundaries (Full, Extent)</gco:CharacterString>
+					</gmd:alternateTitle>
+					<gmd:alternateTitle>
+						<gco:CharacterString>WD_2011_EW_BFE</gco:CharacterString>
+					</gmd:alternateTitle>
+					<gmd:date>
+						<gmd:CI_Date>
+							<gmd:date>
+								<gco:Date>2011-12-31</gco:Date>
+							</gmd:date>
+							<gmd:dateType>
+								<gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+							</gmd:dateType>
+						</gmd:CI_Date>
+					</gmd:date>
+					<gmd:identifier>
+						<gmd:RS_Identifier>
+							<gmd:code>
+								<gco:CharacterString>WD_DEC_2011_EW_BFE</gco:CharacterString>
+							</gmd:code>
+						</gmd:RS_Identifier>
+					</gmd:identifier>
+				</gmd:CI_Citation>
+			</gmd:citation>
+			<gmd:abstract>
+				<gco:CharacterString>This file contains the digital vector boundaries of electoral wards/divisions in England and Wales as at December 2011.
+
+Electoral wards/divisions are the key building block of administrative geography in England and Wales. They are the spatial units used to elect local government councillors in metropolitan and non-metropolitan districts, unitary authorities and the London boroughs in England; and unitary authorities in Wales.  
+Electoral wards are found in most of England but in Wales, the Isle of Wight and some of the new unitary authorities the equivalent areas are legally termed 'electoral divisions', although they are frequently also referred to as wards.  
+The only part of England and Wales without electoral wards/divisions is the Isles of Scilly, which has its own council but no electoral zoning. For statistical purposes however, ONS treats the islands' five parishes as electoral wards. Electoral wards/divisions (and the Scilly parishes) cover the whole of England and Wales and all higher administrative units are necessarily built up from them.  
+They are also used to constitute many other geographies such as NUTS areas and Westminster parliamentary constituencies. Electoral ward/division boundary changes are usually enacted on the first Thursday in May each year, to coincide with the local government elections. 
+
+This product contains both the new nine character codes as well as the old style character codes. For further information, please see the Code History Database (CHD) (Link below).
+
+Customers may find it helpful to use the 2011 statutory electoral ward/division boundaries along with the 2011 Census merged ward boundaries when trying to make comparisons between the 2011 electoral ward/divisions and the 2011 Census merged wards.
+
+The boundaries are full resolution, making them suitable for detailed analytical work. They are also 'extent of the realm' (usually this is the Mean Low Water mark but in some cases boundaries extend beyond this to include off shore islands).
+
+Please note that this product contains both Ordnance Survey and ONS Intellectual Property Rights.</gco:CharacterString>
+			</gmd:abstract>
+			<gmd:pointOfContact>
+				<gmd:CI_ResponsibleParty>
+					<gmd:organisationName>
+						<gco:CharacterString>Office for National Statistics</gco:CharacterString>
+					</gmd:organisationName>
+					<gmd:positionName>
+						<gco:CharacterString>ONS Geography Customer Services</gco:CharacterString>
+					</gmd:positionName>
+					<gmd:contactInfo>
+						<gmd:CI_Contact>
+							<gmd:phone>
+								<gmd:CI_Telephone>
+									<gmd:voice>
+										<gco:CharacterString>+44 (0)1329 444971</gco:CharacterString>
+									</gmd:voice>
+								</gmd:CI_Telephone>
+							</gmd:phone>
+							<gmd:address>
+								<gmd:CI_Address>
+									<gmd:deliveryPoint>
+										<gco:CharacterString>Segensworth Road, Titchfield</gco:CharacterString>
+									</gmd:deliveryPoint>
+									<gmd:city>
+										<gco:CharacterString>Fareham</gco:CharacterString>
+									</gmd:city>
+									<gmd:administrativeArea>
+										<gco:CharacterString>Hampshire</gco:CharacterString>
+									</gmd:administrativeArea>
+									<gmd:postalCode>
+										<gco:CharacterString>PO15 5RR</gco:CharacterString>
+									</gmd:postalCode>
+									<gmd:country>
+										<gco:CharacterString>United Kingdom</gco:CharacterString>
+									</gmd:country>
+									<gmd:electronicMailAddress>
+										<gco:CharacterString>ons.geography@ons.gsi.gov.uk</gco:CharacterString>
+									</gmd:electronicMailAddress>
+								</gmd:CI_Address>
+							</gmd:address>
+							<gmd:onlineResource>
+								<gmd:CI_OnlineResource>
+									<gmd:linkage>
+										<gmd:URL>https://mapping.statistics.gov.uk/arcgis/services/WD/WD_DEC_2011_EW_BFE/MapServer/WMSServer?request=GetCapabilities&amp;service=WMS</gmd:URL>
+									</gmd:linkage>
+									<gmd:name>
+										<gco:CharacterString>Contact ONS Geography Customer Services</gco:CharacterString>
+									</gmd:name>
+									<gmd:function>
+										<gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+									</gmd:function>
+								</gmd:CI_OnlineResource>
+							</gmd:onlineResource>
+						</gmd:CI_Contact>
+					</gmd:contactInfo>
+					<gmd:role>
+						<gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+					</gmd:role>
+				</gmd:CI_ResponsibleParty>
+			</gmd:pointOfContact>
+			<gmd:resourceMaintenance>
+				<gmd:MD_MaintenanceInformation>
+					<gmd:maintenanceAndUpdateFrequency>
+						<gmd:MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</gmd:MD_MaintenanceFrequencyCode>
+					</gmd:maintenanceAndUpdateFrequency>
+				</gmd:MD_MaintenanceInformation>
+			</gmd:resourceMaintenance>
+			<gmd:descriptiveKeywords>
+				<gmd:MD_Keywords>
+					<gmd:keyword>
+						<gco:CharacterString>Administrative units</gco:CharacterString>
+					</gmd:keyword>
+					<gmd:keyword>
+						<gco:CharacterString>Geographical names</gco:CharacterString>
+					</gmd:keyword>
+					<gmd:thesaurusName>
+						<gmd:CI_Citation>
+							<gmd:title>
+								<gco:CharacterString>GEMET - INSPIRE themes, version 1.0</gco:CharacterString>
+							</gmd:title>
+							<gmd:date>
+								<gmd:CI_Date>
+									<gmd:date>
+										<gco:Date>2008-06-01</gco:Date>
+									</gmd:date>
+									<gmd:dateType>
+										<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+									</gmd:dateType>
+								</gmd:CI_Date>
+							</gmd:date>
+						</gmd:CI_Citation>
+					</gmd:thesaurusName>
+				</gmd:MD_Keywords>
+			</gmd:descriptiveKeywords>
+			<gmd:descriptiveKeywords>
+				<gmd:MD_Keywords>
+					<gmd:keyword>
+						<gco:CharacterString>Ward</gco:CharacterString>
+					</gmd:keyword>
+					<gmd:keyword>
+						<gco:CharacterString>WD</gco:CharacterString>
+					</gmd:keyword>
+					<gmd:keyword>
+						<gco:CharacterString>electoral ward</gco:CharacterString>
+					</gmd:keyword>
+					<gmd:keyword>
+						<gco:CharacterString>electoral division</gco:CharacterString>
+					</gmd:keyword>
+					<gmd:keyword>
+						<gco:CharacterString>England and Wales</gco:CharacterString>
+					</gmd:keyword>
+					<gmd:keyword>
+						<gco:CharacterString>EW</gco:CharacterString>
+					</gmd:keyword>
+					<gmd:keyword>
+						<gco:CharacterString>E+W</gco:CharacterString>
+					</gmd:keyword>
+					<gmd:thesaurusName>
+						<gmd:CI_Citation>
+							<gmd:title>
+								<gco:CharacterString>ONS</gco:CharacterString>
+							</gmd:title>
+							<gmd:date>
+								<gmd:CI_Date>
+									<gmd:date>
+										<gco:Date>2011-12-31</gco:Date>
+									</gmd:date>
+									<gmd:dateType>
+										<gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+									</gmd:dateType>
+								</gmd:CI_Date>
+							</gmd:date>
+						</gmd:CI_Citation>
+					</gmd:thesaurusName>
+				</gmd:MD_Keywords>
+			</gmd:descriptiveKeywords>
+			<gmd:resourceConstraints>
+				<gmd:MD_Constraints>
+					<gmd:useLimitation>
+						<gco:CharacterString>http://www.nationalarchives.gov.uk/doc/open-government-licence/</gco:CharacterString>
+					</gmd:useLimitation>
+					<gmd:useLimitation>
+						<gco:CharacterString>Link to the Open Government Licence</gco:CharacterString>
+					</gmd:useLimitation>
+					<gmd:useLimitation>
+						<gco:CharacterString>http://www.ordnancesurvey.co.uk/oswebsite/docs/licences/os-opendata-licence.pdf</gco:CharacterString>
+					</gmd:useLimitation>
+					<gmd:useLimitation>
+						<gco:CharacterString>Link to the Ordnance Survey Open Data Licence</gco:CharacterString>
+					</gmd:useLimitation>
+					<gmd:useLimitation>
+						<gco:CharacterString>Licence</gco:CharacterString>
+					</gmd:useLimitation>
+				</gmd:MD_Constraints>
+			</gmd:resourceConstraints>
+			<gmd:resourceConstraints>
+				<gmd:MD_LegalConstraints>
+					<gmd:accessConstraints>
+						<gmd:MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
+					</gmd:accessConstraints>
+					<gmd:otherConstraints>
+						<gco:CharacterString>Other Restrictions</gco:CharacterString>
+					</gmd:otherConstraints>
+				</gmd:MD_LegalConstraints>
+			</gmd:resourceConstraints>
+			<gmd:language>
+				<gmd:LanguageCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#LanguageCode" codeListValue="eng">eng</gmd:LanguageCode>
+			</gmd:language>
+			<gmd:topicCategory>
+				<gmd:MD_TopicCategoryCode>boundaries</gmd:MD_TopicCategoryCode>
+			</gmd:topicCategory>
+			<gmd:extent>
+				<gmd:EX_Extent>
+					<gmd:geographicElement>
+						<gmd:EX_GeographicBoundingBox>
+							<gmd:westBoundLongitude>
+								<gco:Decimal>-8.17167</gco:Decimal>
+							</gmd:westBoundLongitude>
+							<gmd:eastBoundLongitude>
+								<gco:Decimal>1.74944</gco:Decimal>
+							</gmd:eastBoundLongitude>
+							<gmd:southBoundLatitude>
+								<gco:Decimal>49.9553</gco:Decimal>
+							</gmd:southBoundLatitude>
+							<gmd:northBoundLatitude>
+								<gco:Decimal>60.8433</gco:Decimal>
+							</gmd:northBoundLatitude>
+						</gmd:EX_GeographicBoundingBox>
+					</gmd:geographicElement>
+					<gmd:temporalElement>
+						<gmd:EX_TemporalExtent>
+							<gmd:extent>
+								<gml:TimePeriod gml:id="Temporal">
+									<gml:beginPosition>2011-12-31</gml:beginPosition>
+									<gml:endPosition>2011-12-31</gml:endPosition>
+								</gml:TimePeriod>
+							</gmd:extent>
+						</gmd:EX_TemporalExtent>
+					</gmd:temporalElement>
+					<gmd:verticalElement>
+						<gmd:EX_VerticalExtent>
+							<gmd:minimumValue>
+								<gco:Real>1000</gco:Real>
+							</gmd:minimumValue>
+							<gmd:maximumValue>
+								<gco:Real>14000000</gco:Real>
+							</gmd:maximumValue>
+							<gmd:verticalCRS xlink:href="justinwashere:urn:ogc:def:crs:EPSG::5701"/>
+						</gmd:EX_VerticalExtent>
+					</gmd:verticalElement>
+				</gmd:EX_Extent>
+			</gmd:extent>
+		</gmd:MD_DataIdentification>
+	</gmd:identificationInfo>
+	<gmd:distributionInfo>
+		<gmd:MD_Distribution>
+			<gmd:distributionFormat>
+				<gmd:MD_Format>
+					<gmd:name>
+						<gco:CharacterString>ArcGIS</gco:CharacterString>
+					</gmd:name>
+					<gmd:version>
+						<gco:CharacterString>10.1</gco:CharacterString>
+					</gmd:version>
+				</gmd:MD_Format>
+			</gmd:distributionFormat>
+			<gmd:transferOptions>
+				<gmd:MD_DigitalTransferOptions>
+					<gmd:onLine>
+						<gmd:CI_OnlineResource>
+							<gmd:linkage>
+								<gmd:URL>https://mapping.statistics.gov.uk/arcgis/services/WD/WD_DEC_2011_EW_BFE/MapServer/WMSServer?request=GetCapabilities&amp;service=WMS</gmd:URL>
+							</gmd:linkage>
+							<gmd:function>
+								<gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+							</gmd:function>
+						</gmd:CI_OnlineResource>
+					</gmd:onLine>
+					<gmd:onLine>
+						<gmd:CI_OnlineResource>
+							<gmd:linkage>
+								<gmd:URL>http://www.ons.gov.uk/ons/guide-method/geography/products/names--codes-and-look-ups/code-history-database/index.html</gmd:URL>
+							</gmd:linkage>
+							<gmd:function>
+								<gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+							</gmd:function>
+						</gmd:CI_OnlineResource>
+					</gmd:onLine>
+					<gmd:onLine>
+						<gmd:CI_OnlineResource>
+							<gmd:linkage>
+								<gmd:URL>http://www.ons.gov.uk/ons/guide-method/geography/beginner-s-guide/administrative/index.html</gmd:URL>
+							</gmd:linkage>
+							<gmd:function>
+								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+							</gmd:function>
+						</gmd:CI_OnlineResource>
+					</gmd:onLine>
+				</gmd:MD_DigitalTransferOptions>
+			</gmd:transferOptions>
+		</gmd:MD_Distribution>
+	</gmd:distributionInfo>
+	<gmd:dataQualityInfo>
+		<gmd:DQ_DataQuality>
+			<gmd:scope>
+				<gmd:DQ_Scope>
+					<gmd:level>
+						<gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+					</gmd:level>
+				</gmd:DQ_Scope>
+			</gmd:scope>
+			<gmd:report>
+				<gmd:DQ_DomainConsistency>
+					<gmd:result>
+						<gmd:DQ_ConformanceResult>
+							<gmd:specification>
+								<gmd:CI_Citation>
+									<gmd:title>
+										<gco:CharacterString>COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services</gco:CharacterString>
+									</gmd:title>
+									<gmd:date>
+										<gmd:CI_Date>
+											<gmd:date>
+												<gco:Date>2010-12-08</gco:Date>
+											</gmd:date>
+											<gmd:dateType>
+												<gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+											</gmd:dateType>
+										</gmd:CI_Date>
+									</gmd:date>
+								</gmd:CI_Citation>
+							</gmd:specification>
+							<gmd:explanation>
+								<gco:CharacterString>http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:323:0011:0102:EN:PDF</gco:CharacterString>
+							</gmd:explanation>
+							<gmd:pass>
+								<gco:Boolean>true</gco:Boolean>
+							</gmd:pass>
+						</gmd:DQ_ConformanceResult>
+					</gmd:result>
+				</gmd:DQ_DomainConsistency>
+			</gmd:report>
+			<gmd:lineage>
+				<gmd:LI_Lineage>
+					<gmd:statement>
+						<gco:CharacterString>This dataset was built from ONS Geography's corrected version of Ordnance Survey BoundaryLine 2011</gco:CharacterString>
+					</gmd:statement>
+				</gmd:LI_Lineage>
+			</gmd:lineage>
+		</gmd:DQ_DataQuality>
+	</gmd:dataQualityInfo>
+	<Esri><CreaDate>20141029</CreaDate><CreaTime>15182100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\barthome1.ad.ucl.ac.uk\Home\ucfnard\GIS\wk5\london_20140202.gdb</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps></DataProperties></Esri></gmd:MD_Metadata>

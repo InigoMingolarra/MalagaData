@@ -1,0 +1,12 @@
+name: stastMalaga
+title: stastMalaga
+username:
+account: inigomingolarra
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3489807
+bundleId: 4274895
+url: https://inigomingolarra.shinyapps.io/stastMalaga/
+when: 1614337000.64454
+asMultiple: FALSE
+asStatic: FALSE

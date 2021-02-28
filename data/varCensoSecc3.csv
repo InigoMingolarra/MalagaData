@@ -1,0 +1,151 @@
+;names(DataCensoSecc3)
+1;ccaa
+2;cpro
+3;cmun
+4;dist
+5;secc
+6;PoblaciÌ_n total
+7;Hombres
+8;Mujeres
+9;Personas de menos de 16 aÌ±os
+10;Personas entre 16 (incluido) y 64 (incluido) aÌ±os
+11;Personas con mÌÁs de 64 aÌ±os
+12;Personas que han nacido en EspaÌ±a
+13;Personas que han nacido en otro estado miembro de la UE
+14;Personas que han nacido en un paÌ_s europeo que no es miembro de la UE
+15;Personas que han nacido en Africa
+16;Personas que han nacido en AmÌ©rica Central, del Sur o Caribe
+17;Personas que han nacido en AmÌ©rica del Norte
+18;Personas que han nacido en Asia
+19;Personas que han nacido en OceanÌ_a
+20;Personas de nacionalidad espaÌ±ola que han nacido en EspaÌ±a
+21;Personas de nacionalidad extranjera que han nacido en EspaÌ±a
+22;Personas de nacionalidad espaÌ±ola que han nacido en otro estado miembro de la UE
+23;Personas de nacionalidad extranjera que han nacido en otro estado miembro de la UE
+24;Personas de nacionalidad espaÌ±ola que han nacido en un paÌ_s europeo que no es miembro de la UE
+25;Personas de nacionalidad extranjera que han nacido en un paÌ_s europeo que no es miembro de la UE
+26;Personas de nacionalidad espaÌ±ola que han nacido en Africa
+27;Personas de nacionalidad extranjera que han nacido en Africa
+28;Personas de nacionalidad espaÌ±ola que han nacido en AmÌ©rica Central, del Sur o Caribe
+29;Personas de nacionalidad extranjera que han nacido en AmÌ©rica Central, del Sur o Caribe
+30;Personas de nacionalidad espaÌ±ola que han nacido en AmÌ©rica del Norte
+31;Personas de nacionalidad extranjera que han nacido en AmÌ©rica del Norte
+32;Personas de nacionalidad espaÌ±ola que han nacido en Asia
+33;Personas de nacionalidad extranjera que han nacido en Asia
+34;Personas de nacionalidad espaÌ±ola que han nacido en OceanÌ_a
+35;Personas de nacionalidad extranjera que han nacido en OceanÌ_a
+36;Personas de nacionalidad espaÌ±ola
+37;Personas de nacionalidad extranjera
+38;Hombres de menos de 16 aÌ±os
+39;Hombres entre 16 (incluido) y 64 (incluido) aÌ±os
+40;Hombres con mÌÁs de 64 aÌ±os
+41;Mujeres de menos de 16 aÌ±os
+42;Mujeres entre 16 (incluido) y 64 (incluido) aÌ±os
+43;Mujeres con mÌÁs de 64 aÌ±os
+44;Hombres con nacionalidad espaÌ±ola
+45;Hombres con nacionalidad extranjera
+46;Mujeres con nacionalidad espaÌ±ola
+47;Mujeres con nacionalidad extranjera
+48;Personas de nacionalidad espaÌ±ola de menos de 16 aÌ±os
+49;Personas de nacionalidad extranjera de menos de 16 aÌ±os
+50;Personas de nacionalidad espaÌ±ola entre 16 (incluido) y 64 (incluido) aÌ±os
+51;Personas de nacionalidad extranjera entre 16 (incluido) y 64 (incluido) aÌ±os
+52;Personas de nacionalidad espaÌ±ola con mÌÁs de 64 aÌ±os
+53;Personas de nacionalidad extranjera con mÌÁs de 64 aÌ±os
+54;Personas con estado civil soltero
+55;Personas con estado civil casado
+56;Personas con estado civil separado
+57;Personas con estado civil divorciado
+58;Personas con estado civil viudo
+59;Personas con estado civil soltero de menos de 16 aÌ±os
+60;Personas con estado civil soltero entre 16 (incluido) y 64 (incluido) aÌ±os
+61;Personas con estado civil soltero con mÌÁs de 64 aÌ±os
+62;Personas con estado civil casado de menos de 16 aÌ±os
+63;Personas con estado civil casado entre 16 (incluido) y 64 (incluido) aÌ±os
+64;Personas con estado civil casado con mÌÁs de 64 aÌ±os
+65;Personas con estado civil separado de menos de 16 aÌ±os
+66;Personas con estado civil separado entre 16 (incluido) y 64 (incluido) aÌ±os
+67;Personas con estado civil separado con mÌÁs de 64 aÌ±os
+68;Personas con estado civil divorciado de menos de 16 aÌ±os
+69;Personas con estado civil divorciado entre 16 (incluido) y 64 (incluido) aÌ±os
+70;Personas con estado civil divorciado con mÌÁs de 64 aÌ±os
+71;Personas con estado civil viudo de menos de 16 aÌ±os
+72;Personas con estado civil viudo entre 16 (incluido) y 64 (incluido) aÌ±os
+73;Personas con estado civil viudo con mÌÁs de 64 aÌ±os
+74;Personas analfabetas
+75;Personas sin estudios
+76;Personas con estudios de primer grado
+77;Personas con estudios de segundo grado
+78;Personas con estudios de tercer grado
+79;Personas sin informaciÌ_n sobre su nivel de estudios (menores de 16 aÌ±os)
+80;Hombres analfabetos
+81;Mujeres analfabetas
+82;Hombres sin estudios
+83;Mujeres sin estudios
+84;Hombres con estudios de primer grado
+85;Mujeres con estudios de primer grado
+86;Hombres con estudios de segundo grado
+87;Mujeres con estudios de segundo grado
+88;Hombres con estudios de tercer grado
+89;Mujeres con estudios de tercer grado
+90;Hombres sin informaciÌ_n sobre su nivel de estudios (menores de 16 aÌ±os)
+91;Mujeres sin informaciÌ_n sobre su nivel de estudios (menores de 16 aÌ±os)
+92;Personas de nacionalidad espaÌ±ola y analfabetos
+93;Personas de nacionalidad extranjera y analfabetas
+94;Personas de nacionalidad espaÌ±ola sin estudios
+95;Personas de nacionalidad extranjera sin estudios
+96;Personas de nacionalidad espaÌ±ola con estudios de primer grado
+97;Personas de nacionalidad extranjera con estudios de primer grado
+98;Personas de nacionalidad espaÌ±ola con estudios de segundo grado
+99;Personas de nacionalidad extranjera con estudios de segundo grado
+100;Personas de nacionalidad espaÌ±ola con estudios de tercer grado
+101;Personas de nacionalidad extranjera con estudios de tercer grado
+102;Personas de nacionalidad espaÌ±ola sin informaciÌ_n sobre su nivel de estudios (menores de 16 aÌ±os)
+103;Personas de nacionalidad extranjera sin informaciÌ_n sobre su nivel de estudios (menores de 16 aÌ±os)
+104;Personas entre 16 (incluido) y 64 (incluido) aÌ±os y analfabetas
+105;Personas con mÌÁs de 64 aÌ±os y analfabetas
+106;Personas entre 16 (incluido) y 64 (incluido) aÌ±os sin estudios
+107;Personas con mÌÁs de 64 aÌ±os sin estudios
+108;Personas entre 16 (incluido) y 64 (incluido) aÌ±os con estudios de primer grado
+109;Personas con mÌÁs de 64 aÌ±os con estudios de primer grado
+110;Personas entre 16 (incluido) y 64 (incluido) aÌ±os con estudios de segundo grado
+111;Personas con mÌÁs de 64 aÌ±os con estudios de segundo grado
+112;Personas entre 16 (incluido) y 64 (incluido) aÌ±os con estudios de tercer grado
+113;Personas con mÌÁs de 64 aÌ±os con estudios de tercer grado
+114;Personas de menos de 16 aÌ±os (no se dispone de informaciÌ_n sobre su nivel de estudios)
+115;Total Viviendas
+116;Viviendas Principales
+117;Viviendas Secundarias
+118;Viviendas VacÌ_as
+119;Viviendas en propiedad, por compra, totalmente pagada
+120;Viviendas en propiedad, por compra, con pagos pendientes
+121;Viviendas en propiedad, por herencia o donaciÌ_n
+122;Viviendas en alquiler
+123;Viviendas cedida gratis o a bajo precio
+124;Viviendas en otro tipo de rÌ©gimen de tenencia
+125;Viviendas de menos de 30m2
+126;Viviendas entre 30-45 m2
+127;Viviendas entre 46-60 m2
+128;Viviendas entre 61-75 m2
+129;Viviendas entre 76-90 m2
+130;Viviendas entre 91-105 m2
+131;Viviendas entre 106-120 m2
+132;Viviendas entre 121-150 m2
+133;Viviendas entre 151-180 m2
+134;Viviendas de mÌÁs de 180 m2
+135;Viviendas con 1 habitaciÌ_n
+136;Viviendas con 2 habitaciones
+137;Viviendas con 3 habitaciones
+138;Viviendas con 4 habitaciones
+139;Viviendas con 5 habitaciones
+140;Viviendas con 6 habitaciones
+141;Viviendas con 7 habitaciones
+142;Viviendas con 8 habitaciones
+143;Viviendas con 9 o mÌÁs  habitaciones
+144;Total Hogares
+145;Hogares de 1 persona
+146;Hogares de 2 personas
+147;Hogares de 3 personas
+148;Hogares de 4 personas
+149;Hogares de 5 personas
+150;Hogares de 6 o mÌÁs personas
